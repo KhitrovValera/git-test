@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">git test</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="invalid_token">Invalid token</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="personal_access_token">Personal access token</string>
+    <string name="button_text">button text</string>
+    <string name="retry">RETRY</string>
+    <string name="refresh">REFRESH</string>
+    <string name="item_title">Item title</string>
+    <string name="language">Language</string>
+    <string name="repo_description">Repo description</string>
+    <string name="connection_error">Connection error</string>
+    <string name="connection_error_description">Check your Internet connection</string>
+    <string name="something_error">Something error</string>
+    <string name="something_error_description">Check your something</string>
+    <string name="api_error">Api Error</string>
+    <string name="api_error_description">Some api error, try again or later</string>
+    <string name="auth_error">Authentication Failed</string>
+    <string name="auth_error_description">The token is invalid or has expired. Please sign in again.</string>
+    <string name="empty">Empty</string>
+    <string name="empty_description">No repositories at the moment</string>
+    <string name="repository_name">Repository name</string>
+    <string name="readme_text">ReadMe text</string>
+    <string name="link">link</string>
+    <string name="stars_count">stars</string>
+    <string name="forks_count">forks</string>
+    <string name="watchers_count">watchers</string>
+    <string name="stats_stars"><b><font color='white'>%1$d</font></b> stars</string>
+    <string name="stats_forks"><b><font color='white'>%1$d</font></b> forks</string>
+    <string name="stats_watchers"><b><font color='white'>%1$d</font></b> watchers</string>
+    <string name="license">License</string>
+    <string name="license_name">License name</string>
+    <string name="exit">Exit</string>
+    <string name="repositories">Repositories</string>
+    <string name="no_license">No license</string>
+    <string name="empty_readme">No README.md</string>
+    <string name="error_image">Error Image</string>
+    <string name="logo">Logo</string>
+</resources>
