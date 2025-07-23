@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Bg">#0D1117</color>
+    <color name="Accent">#438440</color>
+    <color name="Secondary">#58A6FF</color>
+    <color name="grey">#AAAAAA</color>
+    <color name="error">#B00020</color>
+    <color name="errorState">#CB4F4F</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="alert_dialog_bg">#0D1117</color>
+    <color name="status_bar">#161B22</color>
+    <color name="row_color">#21262D</color>
+    <color name="stars_color">#FAD876</color>
+    <color name="forks_color">#6ED370</color>
+    <color name="watchers_color">#9CFFF9</color>
+
+
+</resources>
